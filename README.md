@@ -18,3 +18,5 @@ Automação: Automatiza a coleta de dados, economizando tempo e esforço em comp
 Atualização Dinâmica: Permite a atualização frequente dos dados dos produtos, garantindo informações sempre atualizadas.
 Análise de Dados: Com os dados estruturados em um DataFrame, torna-se mais fácil realizar análises e visualizações, auxiliando na tomada de decisões informadas.
 
+Limitação:
+Atualmente não permite extrair todos os produtos do site que estamos pesquisando, talves seja um limite posto pelo próprio site.
